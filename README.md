@@ -1,5 +1,5 @@
-#Beserk
-##Open if you've got the guts!
+# **Beserk**
+## *Open if you've got the guts!!*
 ---
 ---
 ---
