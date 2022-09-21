@@ -1,4 +1,4 @@
-# **Beserk**
+# **Beserk:** Command Line Calculator
 ## *Open if you've got the guts!!*
 ---
 ---
